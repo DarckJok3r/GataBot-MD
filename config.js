@@ -6,12 +6,12 @@ import { fileURLToPath } from 'url'
 global.owner = [
   ['56977774748', 'creador', true],
   ['447441419651'],
-  ['50495745934']
+  ['15058055761']
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['56977774748'], 
+global.prems = ['51927169277'], 
 global.APIs = { // API Prefix.
   
 //⊱ ━━━━━.⋅ name: 'https://website' ⋅.━━━━ ⊰
