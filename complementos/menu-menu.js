@@ -63,7 +63,8 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
     
 
 let str = `
-*ミ💖 𝙷𝙾𝙻𝙰 como está ✨${name}✨, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙻 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 𝙳𝙴 whatBots420 - 𝙱𝙾𝚃 💖彡*
+*ミ𓄀𝗥𝗮𝗮𝗮𓃾*
+*𝐇𝐨𝐥𝐚 𝐜𝐨𝐦𝐨 𝐞𝐬𝐭𝐚𝐬✨${𝙣𝙖𝙢𝙚}💋, 𝘼𝙦𝙪𝙞 𝙩𝙞𝙚𝙣𝙚𝙨 𝙚𝙡 𝙢𝙚𝙣𝙪 ç𝙤𝙢𝙥𝙡𝙚𝙩𝙤 𝙙𝙚𝙡 𝘽𝙤𝙩 𝘶𝘴𝘢𝘭𝘰 𝘴𝘢𝘣𝘪𝘢𝘮𝘦𝘯𝘵𝘦( ˘ ³˘)♥ ミ*
 
 *📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}*
 
